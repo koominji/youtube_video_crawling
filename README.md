@@ -15,5 +15,7 @@
 <hr/>
 + 유튜브 채널 A 👉 금쪽이 플레이리스트
 https://www.youtube.com/watch?v=3zqf5oqkhsk&list=PLl9GPcxBUXInqV6GfDJqs1VYQWxquNZ8u
+
+
 + youtube downloader 사이트
 https://ssyoutube.com/en35/youtube-video-downloader
