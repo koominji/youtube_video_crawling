@@ -4,7 +4,6 @@
 + BeautifulSoup
 + selenium
 + pandas
-+ datetime
 + time
 
 
